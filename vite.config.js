@@ -3,5 +3,9 @@ import react from '@vitejs/plugin-react'
 
 export default defineConfig({
   plugins: [react()],
+  appType: 'spa',
+  preview: {
+    strict: false, // sirve index.html para rutas como /login (evita 404)
+  },
 })
 
