@@ -24,7 +24,7 @@ function SignatureFooter() {
           React · Tailwind · Laravel · AI
         </span>
         <a
-          href="https://nico-piovano-porfolio.vercel.app/es"
+          href="https://nico-piovano-porfolio.vercel.app"
           target="_blank"
           rel="noopener noreferrer"
           className="underline underline-offset-2 hover:opacity-80"
